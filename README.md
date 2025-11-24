@@ -55,3 +55,7 @@ From my individual assignment:
 - SQL & NoSQL processing  
 - Hands-on cluster configuration (Cloudera)
 
+---
+
+Thanks for visiting the project repository! 🚀  
+Feel free to explore the assignment folder for the detailed Azure Big Data analysis.
