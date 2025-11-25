@@ -5,6 +5,7 @@
 # 📊 Big Data Technologies (BDT)
 
 This repository contains my work, skills, and learning outcomes from the **Big Data Technologies** module at Taylor’s University.  
+
 The course provided a strong foundation in **distributed systems, Hadoop ecosystem, cloud Big Data tools, and Linux-based data processing**.
 
 ---
