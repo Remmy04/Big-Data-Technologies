@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/assets/github-header-banner.png" width="100%">
+</p>
+
 # 📊 Big Data Technologies (BDT)
 
 This repository contains my work, skills, and learning outcomes from the **Big Data Technologies** module at Taylor’s University.  
